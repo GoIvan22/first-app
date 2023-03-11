@@ -4,4 +4,3 @@ while number > 0:
     summ += 1
     number //= 10
 print(summ)
-print('war and peace')
