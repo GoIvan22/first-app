@@ -8,6 +8,4 @@ for number in range(2, 5):
     for num in range(3, 6):
       print(number * num)
       print(number * summ)
-if summ > number:
-    print(5)
 
